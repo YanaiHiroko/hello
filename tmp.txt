@@ -1,3 +1,7 @@
 hello
 
+hoge
+
+branch_a
+
 foo
