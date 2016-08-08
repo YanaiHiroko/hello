@@ -3,6 +3,6 @@ hello
 hoge
 
 
-branch_a change file
+master change file
 
 bar
