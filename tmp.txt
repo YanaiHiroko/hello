@@ -2,7 +2,13 @@ hello
 
 hoge
 
+<<<<<<< HEAD
 
 master change file
 
 bar
+=======
+branch_a
+
+foo
+>>>>>>> branch_a
