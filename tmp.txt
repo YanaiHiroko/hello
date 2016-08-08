@@ -2,4 +2,7 @@ hello
 
 hoge
 
+
+branch_a change file
+
 bar
